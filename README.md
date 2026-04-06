@@ -29,7 +29,7 @@
 ## Stats 
 
 <div align="left"> 
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeungJun751&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeungJun751&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" alt="SeungJun751's GitHub Stats" />
 
   <br/><br/>
 
