@@ -26,10 +26,15 @@
 
 ---
 
-## Stats
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=SeungJun751&show_icons=true&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&text_color=cfc9c2" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SeungJun751&layout=compact&theme=tokyonight&bg_color=1a1b27&title_color=7aa2f7&text_color=cfc9c2&count_private=true" />
+## Stats 
+
+<div align="left"> 
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=SeungJun751&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+
+  <br/><br/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeungJun751&theme=tokyonight" alt="GitHub Streak" />
+
 </div>
 
 ---
